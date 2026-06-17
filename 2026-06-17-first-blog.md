@@ -1,4 +1,4 @@
 ---
 title: "first blog"
-date: YYYY-MM-DD
+date: 2026-06-17
 ---
